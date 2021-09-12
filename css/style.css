@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2? family = Ropa + Sans & display = swap');
+
+#LinhaLogo{
+    font-family: "Ropa Sans",sans-serif; 
+    display: flex;   
+    color: #777777;
+}
+
+#Logo{ 
+    font-size: 40px;
+    margin-top: 10px;
+    margin-right: 2px;
+}
+
+header {
+  border-bottom: 1px solid;
+  border-color: darkgrey;
+}
+
